@@ -25,9 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musharaf-ahsan&show_icons=true&locale=en" alt="musharaf-ahsan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musharaf-ahsan&" alt="musharaf-ahsan" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musharaf-ahsan&show_icons=true&locale=en&layout=compact" alt="musharaf-ahsan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musharaf-ahsan&show_icons=true&locale=en" alt="musharaf-ahsan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musharaf-ahsan&" alt="musharaf-ahsan" /></p>
